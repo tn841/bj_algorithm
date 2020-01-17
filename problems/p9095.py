@@ -1,5 +1,8 @@
 # -*- coding : utf-8 -*-
-
+"""
+2019-10-14
+- 피보나치 처럼
+"""
 tc = int(input())
 numbers = list()
 for n in range(tc):
